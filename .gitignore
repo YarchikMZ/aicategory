@@ -1,0 +1,8 @@
+products_with_embeddings.pkl
+*.pkl
+*.safetensors
+*.bin
+*.model
+*.zip
+*.npy
+*.joblib 
